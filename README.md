@@ -27,4 +27,4 @@ windows only，仅适用windows系统。
 
 
 运行截图：
-![运行截图](https://github.com/frenyou/PDF-Exif-manager/assets/101919925/84d24c12-9b6e-47f4-99a5-95b3c71a1644)
+![运行截图](https://github.com/frenyou/PDF-Exif-manager/assets/101919925/7ae0e20b-41a6-40bc-81a7-913bebc8b9fe)
