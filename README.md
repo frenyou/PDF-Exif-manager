@@ -19,12 +19,5 @@ windows only，仅适用windows系统。
 
 
 
-注意：
-
-命令行运行exiftool后，会利用剪贴板传递输出给主程序。因此读取pdf和保存pdf元数据时，不要进行复制粘贴操作。
-命令行用其他方法传递输出会在屏幕闪动一下，使用系统剪贴板则不会。暂时还没找到更好的方法。
-
-
-
 运行截图：
 ![运行截图](https://github.com/frenyou/PDF-Exif-manager/assets/101919925/7ae0e20b-41a6-40bc-81a7-913bebc8b9fe)
