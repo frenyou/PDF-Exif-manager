@@ -1,6 +1,4 @@
 使用ahk制作的pdf管理器。
-windows only，仅适用windows系统。
-
 
 
 介绍：
